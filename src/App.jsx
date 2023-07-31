@@ -19,7 +19,7 @@ function App() {
       <Route path='/faq' Component={FaqPage} />
       <Route path='/syaratketen' Component={SyaratKeten} />
     </Routes>
-    <FooterComponent/>
+    {/* <FooterComponent/> */}
     </>
   )
 }
